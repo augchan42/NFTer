@@ -1,0 +1,342 @@
+[
+  {
+    "timestamp": "2025-05-24T16:05:13.735Z",
+    "character": {
+      "id": 1748102710532,
+      "traits": {
+        "Eyes": "angry",
+        "Mouth": "surprised",
+        "Ears": "regular ears",
+        "Clothes": "black leather jacket",
+        "Accessories": "none"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.1667",
+      "prompt": "A cartoon hippo with angry eyes, surprised mouth, wearing black leather jacket, and accessorized with none.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": {}
+  },
+  {
+    "timestamp": "2025-05-24T16:21:30.058Z",
+    "character": {
+      "id": 1748103620850,
+      "traits": {
+        "Eyes": "determined",
+        "Mouth": "tongue out",
+        "Ears": "headphones",
+        "Clothes": "winter parka",
+        "Accessories": "lollipop (held)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.1667",
+      "prompt": "A cartoon hippo with determined eyes, tongue out mouth, wearing winter parka, and accessorized with lollipop (held).",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": {}
+  },
+  {
+    "timestamp": "2025-05-24T16:33:57.580Z",
+    "character": {
+      "id": 1748104333868,
+      "traits": {
+        "Eyes": "determined",
+        "Mouth": "grin with teeth",
+        "Ears": "headset mic",
+        "Clothes": "denim overalls",
+        "Accessories": "silver chain"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.1667",
+      "prompt": "A cartoon hippo with determined eyes, grin with teeth mouth, wearing denim overalls, and accessorized with silver chain.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": {}
+  },
+  {
+    "timestamp": "2025-05-24T16:38:16.620Z",
+    "character": {
+      "id": 1748104591681,
+      "traits": {
+        "Eyes": "wink",
+        "Mouth": "sharp teeth",
+        "Ears": "upturned ears",
+        "Clothes": "samurai armor",
+        "Accessories": "gold chain"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.5000",
+      "prompt": "A cartoon hippo with wink eyes, sharp teeth mouth, wearing samurai armor, and accessorized with gold chain.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": {}
+  },
+  {
+    "timestamp": "2025-05-24T16:42:21.801Z",
+    "character": {
+      "id": 1748104787005,
+      "traits": {
+        "Eyes": "tears",
+        "Mouth": "surprised",
+        "Ears": "radio comms earpiece",
+        "Clothes": "wizard robe",
+        "Accessories": "game controller"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.4000",
+      "prompt": "A cartoon hippo with tears eyes, surprised mouth, wearing wizard robe, and accessorized with game controller.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/R0c73mPcsC4OL1pRaWfndd68sDgIiyqgVq4Zbf9Nzbotj6vUA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T16:44:00.528Z",
+    "character": {
+      "id": 1748104967676,
+      "traits": {
+        "Eyes": "angry",
+        "Mouth": "goofy",
+        "Ears": "devil horns",
+        "Clothes": "no clothes",
+        "Accessories": "peace medallion"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.3333",
+      "prompt": "A cartoon hippo with angry eyes, goofy mouth, wearing no clothes, and accessorized with peace medallion.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/xRvd2GlOEcaSIh71e39KB0LRu9XQ6BhY7OfCrNeMUm6WK1fSB/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T16:49:48.973Z",
+    "character": {
+      "id": 1748105310944,
+      "traits": {
+        "Eyes": "crying",
+        "Mouth": "sharp teeth",
+        "Ears": "upturned ears",
+        "Clothes": "tropical shirt",
+        "Accessories": "balloon"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.3333",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. crying eyes, sharp teeth mouth, wearing tropical shirt, and balloon. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/M2DVQiWySWbVKRYzZTefC2oeFnp8hNQQeLvQw16fo4CbVVfLF/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T16:59:32.959Z",
+    "character": {
+      "id": 1748105817945,
+      "traits": {
+        "Eyes": "sleepy",
+        "Mouth": "braces",
+        "Ears": "headphones",
+        "Clothes": "red hoodie",
+        "Accessories": "game controller"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2333",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With drooping, half-closed sleepy eyes, metal braces visible on its teeth when smiling, and large over-ear headphones resting on the head. wearing a bright red pullover hoodie with a front pocket, and holding a retro-style video game controller in its hands. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/T1RJOISfcVUqbKfbeP9HunplLJdty41UMVqjAAXeloGAPrflC/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:07:02.092Z",
+    "character": {
+      "id": 1748106261990,
+      "traits": {
+        "Eyes": "determined",
+        "Mouth": "smile",
+        "Ears": "bandaged ear",
+        "Clothes": "winter parka",
+        "Accessories": "tiny hippo stuffed animal (held)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2000",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With focused, intense eyes showing determination, a simple, pleasant smile, and one ear wrapped in a white bandage. wearing a thick, insulated winter parka with fur-lined hood, and holding a small plush hippo toy in one arm. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/UeFGFA8ESKWe5Etan6NvPm6hWDX4EXxn0XOWrwGCogFx66vUA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:08:32.488Z",
+    "character": {
+      "id": 1748106444381,
+      "traits": {
+        "Eyes": "determined",
+        "Mouth": "open-mouth smile",
+        "Ears": "bandaged ear",
+        "Clothes": "prisoner jumpsuit",
+        "Accessories": "magic orb (floating)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.1667",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With focused, intense eyes showing determination, a wide, joyful open-mouth smile, and one ear wrapped in a white bandage. wearing an orange prison jumpsuit with identification numbers, and a glowing blue magical orb floating beside it. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/7l9eV4nQeFqGwk5YHrAIqOrI5SfYO7ps704Bl6o03yQd41fSB/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:11:28.887Z",
+    "character": {
+      "id": 1748106620909,
+      "traits": {
+        "Eyes": "angry",
+        "Mouth": "frown",
+        "Ears": "multiple piercings",
+        "Clothes": "blue varsity jacket",
+        "Accessories": "magic orb (floating)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2000",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With an angry grimace with clenched teeth, a downturned frown showing disappointment, and ears decorated with multiple silver earrings and studs. wearing a classic blue and white varsity jacket with letter patches, and a glowing blue magical orb floating beside it. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/lG4NRtuw0rKTP9dzxdRkf409ifpXIinVf0QCqMZtoggf7rflC/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:13:45.204Z",
+    "character": {
+      "id": 1748106757345,
+      "traits": {
+        "Eyes": "half-lidded",
+        "Mouth": "frown",
+        "Ears": "headset mic",
+        "Clothes": "sports jersey",
+        "Accessories": "none"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2000",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With skeptical half-lidded eyes with a hint of suspicion, a downturned frown showing disappointment, and a gaming headset with attached microphone. wearing a sporty team jersey with numbers and stripes, without any accessories. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/1EzLmd5tZKYPOpGhe2r5hfvna3vUe4xdfyabKWwhx5BcEsflC/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:20:42.610Z",
+    "character": {
+      "id": 1748107031272,
+      "traits": {
+        "Eyes": "crying",
+        "Mouth": "open-mouth smile",
+        "Ears": "upturned ears",
+        "Clothes": "prisoner jumpsuit",
+        "Accessories": "floating crown"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "1.1333",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With large cartoon eyes with dramatic vertical tears streaming down, large open cartoon smile showing upper teeth, and perky, upturned ears. wearing bright orange cartoon-style prison jumpsuit with number 04 on the chest, and a golden crown floating slightly above its head. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/4Eun3RRwxgoMIxx0YpHt6aJwGeZNUDnZHAyxxEBsQXKzj9XKA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:23:46.332Z",
+    "character": {
+      "id": 1748107317501,
+      "traits": {
+        "Eyes": "happy",
+        "Mouth": "smile",
+        "Ears": "radio comms earpiece",
+        "Clothes": "tuxedo",
+        "Accessories": "katana (back strap)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.3667",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With upturned, cheerful eyes showing happiness, a simple, pleasant smile, and a professional communications earpiece in one ear. wearing an elegant black tuxedo with bow tie and silk lapels, and a sheathed samurai katana strapped across the back. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/YSwuGIIy9dL4IF5McCU6y5VLtSbmF47of2vUOjmAD8fdK7vUA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-24T17:29:04.365Z",
+    "character": {
+      "id": 1748107656071,
+      "traits": {
+        "Eyes": "angry",
+        "Mouth": "drooling",
+        "Ears": "upturned ears",
+        "Clothes": "red hoodie",
+        "Accessories": "cigar"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2000",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With an angry grimace with clenched teeth, drooling slightly from the corner of its mouth, and ears perked up and angled slightly upward. wearing a bright red pullover hoodie with a front pocket, and a lit cigar emitting small puffs of smoke. Keep the style flat and outlined, consistent with the original base image. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/zMiPYeUxucwDZaw8DgoVqWwb7DEdqhTaCXlM8U3soecdP7vUA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-25T15:19:34.961Z",
+    "character": {
+      "id": 1748186215448,
+      "traits": {
+        "Eyes": "spiral",
+        "Mouth": "braces",
+        "Ears": "upturned ears",
+        "Clothes": "superhero cape",
+        "Accessories": "katana (back strap)"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.2667",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With hypnotic spiral pattern swirling in the eyes, metal braces visible on its teeth when smiling, and ears perked up and angled slightly upward. wearing a flowing red superhero cape attached at the shoulders, and a sheathed samurai katana strapped diagonally across the back, angled over the shoulder. Lines are clean and bold with flat shaded color and strong edge definition. Crisp cartoon outlines and high contrast between elements. Keep the style flat and outlined, consistent with the original base image. Generate a square image at 1024x1024 resolution. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/obXMGniC60JYBVPIPXcA0NGUVsieRQF1wbAgVHCi8aTBOHYKA/output.webp"
+  },
+  {
+    "timestamp": "2025-05-25T15:28:25.342Z",
+    "character": {
+      "id": 1748186766139,
+      "traits": {
+        "Eyes": "glasses",
+        "Mouth": "neutral",
+        "Ears": "bandaged ear",
+        "Clothes": "denim overalls",
+        "Accessories": "none"
+      },
+      "isSpecial": false,
+      "specialSet": null,
+      "rarityScore": "0.3333",
+      "prompt": "A bright cartoon-style blue hippo character in the same pose and proportions as the input image. With round intellectual glasses perched on the nose, a straight, neutral expression, and right ear wrapped in white medical bandage. wearing blue denim farmer's overalls with metal clasps, without any accessories. Lines are clean and bold with flat shaded color and strong edge definition. Crisp cartoon outlines and high contrast between elements. Keep the style flat and outlined, consistent with the original base image. Generate a square image at 1024x1024 resolution. No background.",
+      "rerollAllowed": true,
+      "traitsUsed": []
+    },
+    "imageUrl": "https://replicate.delivery/xezq/pryCectOluTvTClRghci0RAmoDesfkvk9geGcDRQitgWR6ATB/output.webp"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "name": "Saiyan Spark",
+    "inspiration": "Goku",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A cartoon-style blue hippo styled like Super Saiyan Goku. Hair is tall, bright golden, and spiky in every direction with crisp, defined edges. Wearing a ripped orange martial arts gi with a blue undershirt peeking through tears in the sleeves and torso. Eyes are intense and fierce, with sharp energy sparks crackling around the body. Clean, bold lines and flat shaded color with strong edges.",
+    "traits": {
+      "Eyes": "sharingan",
+      "Clothes": "ninja outfit",
+      "Accessories": "4 star dragon ball (from Dragon Ball Z)",
+      "Pose": "battle stance"
+    }
+  },
+  {
+    "name": "Wizard Legacy",
+    "inspiration": "Harry Potter",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Eyes": "spiral",
+      "Clothes": "wizard robe",
+      "Accessories": "magic orb"
+    }
+  },
+  {
+    "name": "Couch King",
+    "inspiration": "Family Guy, Peter",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A cartoon-style blue hippo resembling Peter Griffin from Family Guy. Wearing round wireframe glasses with large circular lenses defined by clean, bold outlines. A white button-up shirt with sharp creases on rolled sleeves, and green pants with distinct edges. The hippo has a confident smirk and a visible double chin, standing with a casual posture while holding a beer mug. Lines are clean and bold with flat shaded color and strong edges.",
+    "traits": {
+      "Eyes": "sleepy",
+      "Mouth": "drooling",
+      "Clothes": "red hoodie",
+      "Accessories": "none"
+    }
+  },
+  {
+    "name": "Sage Ascendant",
+    "inspiration": "Naruto sage mode",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A cartoon-style blue hippo modeled after Naruto in Sage Mode. Spiky golden-yellow hair with sharp, defined spikes, bold red markings around the eyes, and three distinct whisker lines on each cheek. Wearing an open red-orange cloak with precise black flame patterns at the bottom, over a dark underlayer. Eyes glowing with intense sage chakra energy. Stance is wide and battle-ready. Crisp cartoon outlines and flat shaded color with strong edges.",
+    "traits": {
+      "Eyes": "sharingan",
+      "Clothes": "ninja outfit",
+      "Accessories": "katana (back strap)"
+    }
+  },
+  {
+    "name": "Man of Might",
+    "inspiration": "Superman",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Eyes": "angry",
+      "Clothes": "gold suit",
+      "Accessories": "superhero cape"
+    }
+  },
+  {
+    "name": "Cranky Hippo",
+    "inspiration": "Cartman from South Park",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "Inspired by Cartman from South Park. A cartoon-style blue hippo wearing a red winter jacket with bold yellow buttons, yellow mittens with defined stitching, and a bright blue beanie hat topped with a sharp yellow puffball. Arms crossed with firm edges, eyebrows strongly furrowed with a frustrated expression. Crisp cartoon outlines and flat shaded color with strong contrasting edges. Maintain the skin color and style from the reference image.",
+    "traits": {
+      "Eyes": "angry",
+      "Mouth": "frown",
+      "Clothes": "winter parka"
+    }
+  },
+  {
+    "name": "Homer Hippo",
+    "inspiration": "Homer Simpson",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A cartoon-style blue hippo inspired by Homer Simpson. It has two precisely drawn black arches across the top of its bald head to represent hair, defined stubble pattern around the mouth, a large round belly with a clear outline, and a dazed, slightly annoyed expression. Wearing a plain white short-sleeve polo shirt with sharp collar edges and loose blue pants with distinct seams. Holding a pink donut with bold, colorful rainbow sprinkles in one hand. Lines are clean and bold with flat, vibrant color fill and strong edge definition.",
+    "traits": {
+      "Eyes": "sleepy",
+      "Mouth": "drooling",
+      "Clothes": "red hoodie"
+    }
+  },
+  {
+    "name": "Fire Sage",
+    "inspiration": "Uncle Iroh from Avatar",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A wise and peaceful cartoon hippo inspired by Uncle Iroh from Avatar: The Last Airbender. It has crisp white hair tied in a bun with clearly defined strands and a detailed white beard with sharp edges. Dressed in a flowing crimson robe with precisely outlined golden shoulder panels, a deep v-neckline with strong border, and long draping sleeves with defined folds. Sitting cross-legged with a small teacup in hand, steam rising in distinct wisps. Expression is calm and kind with well-defined facial features. Lines are clean and bold with flat shaded color and strong edge definition. Maintain the skin color and style from the reference image",
+    "traits": {
+      "Eyes": "sleepy",
+      "Mouth": "smile",
+      "Clothes": "wizard robe"
+    }
+  },
+  {
+    "name": "Escape Artist",
+    "inspiration": "Prison Break",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Mouth": "frown",
+      "Clothes": "prisoner jumpsuit",
+      "Ears": "bandaged ear"
+    }
+  },
+  {
+    "name": "Battle Grunt",
+    "inspiration": "Soldier",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Eyes": "determined",
+      "Mouth": "angry",
+      "Ears": "radio comms earpiece"
+    }
+  },
+  {
+    "name": "Zenflow",
+    "inspiration": "Mystic Monk",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Eyes": "spiral",
+      "Accessories": "peace medallion"
+    }
+  },
+  {
+    "name": "Gamer Supreme",
+    "inspiration": "Gamer (butt scratch pose)",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Mouth": "smirk",
+      "Accessories": "game controller",
+      "Ears": "headset mic"
+    }
+  },
+  {
+    "name": "Cosmic Dropout",
+    "inspiration": "Wildcard",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "traits": {
+      "Eyes": "heart eyes",
+      "Mouth": "drooling",
+      "Clothes": "rainbow vest",
+      "Accessories": "lollipop (held)"
+    }
+  },
+  {
+    "name": "Golden Enlightenment",
+    "inspiration": "Golden base Buddha",
+    "maxEditions": 5,
+    "currentEditions": 0,
+    "prompt": "A serene, statue-like cartoon hippo fully coated in polished gold with sharp, precise reflective highlights. Sitting in a meditative lotus position with legs crossed and hands resting in its lap with distinct finger details. Eyes are closed with clearly defined eyelids, mouth formed in a precise peaceful smile with clean edges, and the surface has a metallic sheen with crisp highlight boundaries. Inspired by traditional Buddha sculptures, the figure has bold outlines and strong edge definition. Lines are clean and sharp with flat shaded metallic color.",
+    "traits": {
+      "Eyes": "closed peaceful",
+      "Mouth": "neutral",
+      "Clothes": "no clothes",
+      "Base": "golden"
+    }
+  }
+]

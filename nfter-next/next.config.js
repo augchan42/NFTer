@@ -7,6 +7,11 @@ const nextConfig = {
         hostname: 'aggregator.walrus-testnet.walrus.space',
         pathname: '/v1/blobs/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'replicate.delivery',
+        pathname: '/**',
+      },
     ],
   },
 }
