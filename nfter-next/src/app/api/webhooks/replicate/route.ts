@@ -4,6 +4,14 @@ import { NextResponse } from "next/server";
 const clients = new Map<string, ReadableStreamController<Uint8Array>>();
 
 export async function POST(request: Request) {
+  // Start processing the webhook asynchronously
+  processWebhook(request).catch(console.error);
+
+  // Respond immediately to prevent timeout
+  return new Response(null, { status: 200 });
+}
+
+async function processWebhook(request: Request) {
   try {
     const prediction = await request.json();
     console.log("Received webhook for prediction:", prediction.id);
@@ -23,13 +31,8 @@ export async function POST(request: Request) {
         clients.delete(prediction.id);
       }
     }
-
-    // Always return success to Replicate
-    return new Response(null, { status: 200 });
   } catch (err) {
-    console.error("Webhook error:", err);
-    // Still return 200 to Replicate even if we have an error
-    return new Response(null, { status: 200 });
+    console.error("Webhook processing error:", err);
   }
 }
 
