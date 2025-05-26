@@ -160,7 +160,9 @@ function weightedRandom(items: Trait[]): string {
 function calculateRarityScore(combo: { [key: string]: string }): string {
   return Object.entries(combo)
     .reduce((acc, [key, value]) => {
-      const categoryKey = key.toLowerCase();
+      // Convert key to match the case in traits.json (first letter uppercase)
+      const categoryKey =
+        key.charAt(0).toUpperCase() + key.slice(1).toLowerCase();
       const traitList = (traits as TraitCategory)[categoryKey];
       if (!traitList) {
         console.warn(`No trait list found for category: ${categoryKey}`);
@@ -174,28 +176,28 @@ function calculateRarityScore(combo: { [key: string]: string }): string {
 
 function buildPromptFromTraits(traits: { [key: string]: string }): string {
   const eyesDesc =
-    traitAliases[traits.eyes?.toLowerCase()] || `${traits.eyes} eyes`;
+    traitAliases[traits.Eyes?.toLowerCase()] || `${traits.Eyes} eyes`;
   const mouthDesc =
-    traitAliases[traits.mouth?.toLowerCase()] || `${traits.mouth} mouth`;
-  const earsDesc = traitAliases[traits.ears?.toLowerCase()] || `${traits.ears}`;
+    traitAliases[traits.Mouth?.toLowerCase()] || `${traits.Mouth} mouth`;
+  const earsDesc = traitAliases[traits.Ears?.toLowerCase()] || `${traits.Ears}`;
 
   let clothesPhrase = "";
   if (
-    traits.clothes &&
-    traits.clothes.toLowerCase() !== "none" &&
-    traits.clothes.toLowerCase() !== "no clothes"
+    traits.Clothes &&
+    traits.Clothes.toLowerCase() !== "none" &&
+    traits.Clothes.toLowerCase() !== "no clothes"
   ) {
     clothesPhrase = `wearing ${
-      traitAliases[traits.clothes?.toLowerCase()] || traits.clothes
+      traitAliases[traits.Clothes?.toLowerCase()] || traits.Clothes
     }`;
   } else {
     clothesPhrase = "without any clothes";
   }
 
   let accessoriesPhrase = "";
-  if (traits.accessories && traits.accessories.toLowerCase() !== "none") {
+  if (traits.Accessories && traits.Accessories.toLowerCase() !== "none") {
     accessoriesPhrase = `and ${
-      traitAliases[traits.accessories?.toLowerCase()] || traits.accessories
+      traitAliases[traits.Accessories?.toLowerCase()] || traits.Accessories
     }`;
   } else {
     accessoriesPhrase = "without any accessories";
@@ -219,7 +221,8 @@ export function generateCharacter(id: number): CharacterMetadata {
     setUsed = specialSet;
   } else {
     for (const category in traits) {
-      traitsSelected[category.toLowerCase()] = weightedRandom(
+      // Keep the original case from traits.json
+      traitsSelected[category] = weightedRandom(
         (traits as TraitCategory)[category]
       );
     }

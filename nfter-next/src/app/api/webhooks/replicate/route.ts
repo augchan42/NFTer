@@ -11,21 +11,25 @@ export async function POST(request: Request) {
     // Get the SSE controller for this prediction
     const controller = clients.get(prediction.id);
     if (controller) {
-      // Send the prediction result to the client
-      controller.enqueue(
-        new TextEncoder().encode(`data: ${JSON.stringify(prediction)}\n\n`)
-      );
-      controller.close();
-      clients.delete(prediction.id);
+      try {
+        // Send the prediction result to the client
+        controller.enqueue(
+          new TextEncoder().encode(`data: ${JSON.stringify(prediction)}\n\n`)
+        );
+        controller.close();
+        clients.delete(prediction.id);
+      } catch (error) {
+        console.error("Error sending SSE update:", error);
+        clients.delete(prediction.id);
+      }
     }
 
-    return NextResponse.json({ success: true });
+    // Always return success to Replicate
+    return new Response(null, { status: 200 });
   } catch (err) {
     console.error("Webhook error:", err);
-    return NextResponse.json(
-      { error: err instanceof Error ? err.message : String(err) },
-      { status: 500 }
-    );
+    // Still return 200 to Replicate even if we have an error
+    return new Response(null, { status: 200 });
   }
 }
 
